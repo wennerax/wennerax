@@ -1,6 +1,6 @@
 # Welcome> i'm wennera 👋
 
-![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=Ваш_Юзернейм&show_icons=true&theme=radical)
+![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
 
 ## 🌱 Programming languages
 
