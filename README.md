@@ -1,24 +1,16 @@
-# Привет, я [Ваше Имя] 👋
+# Welcome> i'm wennera 👋
 
-![Активность на GitHub](https://github-readme-stats.vercel.app/api?username=Ваш_Юзернейм&show_icons=true&theme=radical)
+![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=Ваш_Юзернейм&show_icons=true&theme=radical)
 
-## 🌱 Языки программирования
+## 🌱 Programming languages
 
-### C++
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 💻 Developer
+![Developer GIF](https://i.imgur.com/onwdH7X.gif)
 
-### JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🔗 Connection
+![discord](.wennex.ex.)
+![github](wennerax)
 
-## 💻 Developer GIF
-![Developer GIF](https://media.giphy.com/media/8vQSQz7dFbZgE/giphy.gif)
-
-## 🔗 Социальные сети
-- [Twitter](https://twitter.com/ваш_аккаунт)
-- [LinkedIn](https://www.linkedin.com/in/ваш_аккаунт/)
-- [Telegram](https://t.me/ваш_аккаунт)
-
-🌟 Спасибо за визит на мой профиль!
+🌟 Thank you for visiting my profile!
