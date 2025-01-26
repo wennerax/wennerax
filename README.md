@@ -22,7 +22,7 @@
 
 ## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=500&color=BBBBBB&multiline=true&random=true&width=441&height=58&lines=developer%3C%2F%3E;programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=500&color=BBBBBB&multiline=true&width=441&height=58&lines=developer%3C%2F%3E;programmer)](https://git.io/typing-svg)
 
 ![Developer GIF](https://i.imgur.com/rBDFYL7.gif)
 
