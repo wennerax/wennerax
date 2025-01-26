@@ -1,4 +1,9 @@
 ![:D](https://i.imgur.com/mqfMJfV.gif)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=500&color=B926E4&center=true&width=441&height=58&lines=%EF%BD%97%EF%BD%85%EF%BD%8E%EF%BD%8E%EF%BD%85%EF%BD%92%EF%BD%81)](https://git.io/typing-svg)
+
+
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
 𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫. 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
 
