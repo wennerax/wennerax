@@ -47,5 +47,10 @@
 
 ![smike](https://i.imgur.com/1VXLhqB.gif)
 
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
