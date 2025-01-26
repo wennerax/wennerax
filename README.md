@@ -5,39 +5,7 @@
 ![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
 
 ##  𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-
-<!DOCTYPE html>
-<html>
-<style>
-#div1 {
-  font-size:48px;
-}
-</style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body>
-
-<h1>Анимированная разорванная цепь</h1>
-
-<div id="div1" class="fa"></div>
-
-<script>
-function brakechain() {
-  var a;
-  a = document.getElementById("div1");
-  a.innerHTML = "&#xf0c1;";
-  setTimeout(function () {
-      a.innerHTML = "&#xf127;";
-    }, 1000);
-}
-brakechain();
-setInterval(brakechain, 2000);
-</script>
-
-<p>В этом примере показано, как использовать библиотеку значков для создания анимированного эффекта.</p>
-</body>
-</html>
-
-
+![code](https://i.imgur.com/44ujp5g.png)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
