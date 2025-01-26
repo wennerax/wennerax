@@ -45,38 +45,6 @@
 
 ![github](https://i.imgur.com/RRaeBZu.png) [profile github wennera](https://github.com/wennerax)
 
-<HTML> 
-<HEAD> 
- 
- 
-</HEAD> 
-<BODY onload="RND_Comp_name();/*скрипт запускается когда документ загрузился полностью*/"> 
- 
- 
-<script type="text/javascript"> 
-rnd_comp_length=2;/*устанавливаешь длинну массива, т.е. сколько цветов будет*/ 
-colors_= new Array(rnd_comp_length); 
-colors_[0] = "red"; 
-colors_[1] = "lime"; 
-var next_ = 0; 
-function RND_Comp_name() 
-{ 
-headcolor= colors_[next_];/*headcolor - переменной устанавливаешь новый цвет*/ 
- 
-document.getElementById("rnd_name_comp").style.color=headcolor;/*присваеваешь этот цвет элементу в документе*/ 
-next_++; 
-if(next_>rnd_comp_length-1) next_=0; 
-window.setTimeout("RND_Comp_name()",400); /*спустя 1 секунду, меняешь цвет на новый, если нужно дольше, то ставишь число больше*/ 
-} 
-</script> 
-<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст1 </font> 
-<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст2 </font> 
-<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст3 </font> 
-<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст4 </font> 
-<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст5 </font> 
-</BODY> 
-</HTML>
-
 
 ## Thank you for visiting my profile!
 
