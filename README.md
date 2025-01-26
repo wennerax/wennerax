@@ -45,36 +45,39 @@
 
 ![github](https://i.imgur.com/RRaeBZu.png) [profile github wennera](https://github.com/wennerax)
 
-<style>
-@-webkit-keyframes flicker {
-  50% {background-size: 7px 7px, 3px 3px;}
-  100% {background-size: 3px 3px, 7px 7px;}
-}
-@keyframes flicker {
-  50% {background-size: 7px 7px, 3px 3px;}
-  100% {background-size: 3px 3px, 7px 7px;}
-}
-#blink3 {
-  position: relative;
-  font-weight: bold;
-  color: #30084f;
-}
-#blink3:before {
-  content: "";
-  position:absolute; top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: radial-gradient(rgba(255,255,255,1) 1px, rgba(255,255,255,0) 1px), radial-gradient(rgba(255,255,255,1) 1px, rgba(255,255,255,0) 1px);
-  background-size: 3px 3px, 7px 7px;
-  background-position: 0% 50%;
-  -webkit-animation: flicker .5s linear infinite alternate;
-  animation: flicker .5s linear infinite alternate;
-}
-<style>
+<HTML> 
+<HEAD> 
+ 
+ 
+</HEAD> 
+<BODY onload="RND_Comp_name();/*скрипт запускается когда документ загрузился полностью*/"> 
+ 
+ 
+<script type="text/javascript"> 
+rnd_comp_length=2;/*устанавливаешь длинну массива, т.е. сколько цветов будет*/ 
+colors_= new Array(rnd_comp_length); 
+colors_[0] = "red"; 
+colors_[1] = "lime"; 
+var next_ = 0; 
+function RND_Comp_name() 
+{ 
+headcolor= colors_[next_];/*headcolor - переменной устанавливаешь новый цвет*/ 
+ 
+document.getElementById("rnd_name_comp").style.color=headcolor;/*присваеваешь этот цвет элементу в документе*/ 
+next_++; 
+if(next_>rnd_comp_length-1) next_=0; 
+window.setTimeout("RND_Comp_name()",400); /*спустя 1 секунду, меняешь цвет на новый, если нужно дольше, то ставишь число больше*/ 
+} 
+</script> 
+<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст1 </font> 
+<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст2 </font> 
+<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст3 </font> 
+<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст4 </font> 
+<font  style="font-weight:bold" id="rnd_name_comp">Мигающий текст5 </font> 
+</BODY> 
+</HTML>
 
- <h2 id="blink3">Образец</h2>
 
- 
 ## Thank you for visiting my profile!
 
 ![smike](https://i.imgur.com/1VXLhqB.gif)
