@@ -1,6 +1,19 @@
 ![:D](https://i.imgur.com/mqfMJfV.gif)
 
-<h1 class="linear-wipe">wennera</h1>
+<svg id="svg1" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="280.089px" height="280.089px" viewBox="0 0 280.089 280.089" style="border:1px solid">
+    <polygon class="wdgreyAnim" fill="url(#largeGradient)" points="49.498,91.095 73.592,188.992 101.322,188.992 115.607,135.212 129.191,188.994 150.898,188.994 177.931,110.705 195.294,167.986 162.38,167.986 155.238,188.994 230.591,188.994 199.076,91.095 158.711,91.211 141.919,136.94 132.27,91.095 103.699,91.095 91.522,142.325 79.75,91.095 " />
+    <defs>
+        <linearGradient id="largeGradient" x2="0%" y2="0%">
+            <stop offset="0%" stop-color="#4c7eaf"></stop>
+            <stop offset="25%" stop-color="#4a8eac"></stop>
+            <stop offset="50%" stop-color="#46a5a7"></stop>
+            <stop offset="75%" stop-color="#53bfac"></stop>
+            <stop offset="100%" stop-color="#828282"></stop>
+            <animate attributeName="x2" dur="2s" begin="svg1.mouseenter" from="0%" to="100%" repeatCount="1" fill="freeze" /> 
+            <animate attributeName="x2" dur="2s" begin="svg1.mouseleave" from="100%" to="0%" repeatCount="1"   />
+        </linearGradient>
+    </defs>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=500&color=B926E4&center=true&width=441&height=58&lines=%EF%BD%97%EF%BD%85%EF%BD%8E%EF%BD%8E%EF%BD%85%EF%BD%92%EF%BD%81)](https://git.io/typing-svg)
 
