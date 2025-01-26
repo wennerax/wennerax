@@ -45,35 +45,36 @@
 
 ![github](https://i.imgur.com/RRaeBZu.png) [profile github wennera](https://github.com/wennerax)
 
-
-.text {
-  font-size: 80px;
+<style>
+@-webkit-keyframes flicker {
+  50% {background-size: 7px 7px, 3px 3px;}
+  100% {background-size: 3px 3px, 7px 7px;}
+}
+@keyframes flicker {
+  50% {background-size: 7px 7px, 3px 3px;}
+  100% {background-size: 3px 3px, 7px 7px;}
+}
+#blink3 {
+  position: relative;
   font-weight: bold;
-  font-family: arial;
-  color: #13678a;
+  color: #30084f;
 }
-
-.text:hover {
-  color: transparent;
-  background-image: linear-gradient(90deg, black, red, blue, green, magenta, cyan, yellow, black);
-  -webkit-background-clip: text;
-  background-clip: text;
-  background-size: 300px 300px;
-  background-position: 0 0;
-  animation: bp 2s infinite linear;
+#blink3:before {
+  content: "";
+  position:absolute; top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: radial-gradient(rgba(255,255,255,1) 1px, rgba(255,255,255,0) 1px), radial-gradient(rgba(255,255,255,1) 1px, rgba(255,255,255,0) 1px);
+  background-size: 3px 3px, 7px 7px;
+  background-position: 0% 50%;
+  -webkit-animation: flicker .5s linear infinite alternate;
+  animation: flicker .5s linear infinite alternate;
 }
+<style>
 
-@keyframes bp {
-  from {
-    background-position-x: 0px;
-  }
-  to {
-    background-position-x: 300px;
-  }
-}
+ <h2 id="blink3">Образец</h2>
 
-<div class="text">wennera</div>
-
+ 
 ## Thank you for visiting my profile!
 
 ![smike](https://i.imgur.com/1VXLhqB.gif)
