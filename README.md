@@ -29,7 +29,7 @@
 
 ## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
-[![Typing SVG](𝟬𝟭𝟯𝟯𝗟𝟬)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=500&color=7E7E7E&width=441&height=58&lines=developer%3C%2F%3E;programmer+)](https://git.io/typing-svg)
 
 
 
@@ -49,10 +49,12 @@
 
 ![smike](https://i.imgur.com/1VXLhqB.gif)
 
+
  <br><br>
 <p>👀 &nbsp;Visitors</p>
  <br>
-<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+<img align="left" src="https://profile-counter.glitch.me/wennerax/count.svg" />
+
 
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
