@@ -12,6 +12,6 @@
 
  ##🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 !𝐝𝐢𝐬𝐜𝐨𝐫𝐝 - .wennex.ex.
-![github](wennerax)
+![github](https://github.com/wennerax)
 
 🌟 Thank you for visiting my profile!
