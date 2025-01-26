@@ -31,5 +31,7 @@
 
  #🌟 Thank you for visiting my profile!
 
+![smike](https://i.imgur.com/1VXLhqB.gif)
+
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
