@@ -17,7 +17,7 @@
 
 
  # 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-![Developer GIF](https://i.imgur.com/onwdH7X.gif)
+![Developer GIF](https://i.imgur.com/rBDFYL7.gif)
 
 
  ##🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
