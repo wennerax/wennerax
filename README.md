@@ -23,10 +23,10 @@
  ##🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/VciHAj6.png) - .wennex.ex.
+![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - .wennex.ex.
 
 
-![github](https://i.imgur.com/hx31l0T.png) [profile github wennera](https://github.com/wennerax)
+![github](https://i.imgur.com/RRaeBZu.png) [profile github wennera](https://github.com/wennerax)
 
 
  #🌟 Thank you for visiting my profile!
