@@ -6,6 +6,8 @@
 
 ##  𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
+<div id="charging" class="fa"></div>
+
 
 ![dev](https://i.imgur.com/pgMXNSu.png)
 
