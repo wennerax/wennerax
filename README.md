@@ -72,7 +72,7 @@
   }
 }
 
-<div class="wennera">Text</div>
+<div class="text">wennera</div>
 
 ## Thank you for visiting my profile!
 
