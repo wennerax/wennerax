@@ -20,7 +20,7 @@
 ![Developer GIF](https://i.imgur.com/rBDFYL7.gif)
 
 
- ##🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
+## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
 ![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - .wennex.ex.
