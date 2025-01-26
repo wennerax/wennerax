@@ -11,11 +11,19 @@
 
 
 ## 𝐌𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐥𝐮𝐠𝐢𝐧𝐬
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A6C1B&center=true&vCenter=true&width=435&lines=%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%3C%2F%3E;+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB)](https://git.io/typing-svg)
+
+
 ![Minecraft](https://i.imgur.com/e7sNwY4.png)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A6C1B&center=true&vCenter=true&width=435&lines=%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%A7'%F0%9D%90%AC)](https://git.io/typing-svg)
+
+
+
 ## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A6C1B&center=true&vCenter=true&width=435&lines=%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%3C%2F%3E)](https://git.io/typing-svg)
+
 ![Developer GIF](https://i.imgur.com/rBDFYL7.gif)
 
 
