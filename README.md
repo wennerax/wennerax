@@ -9,7 +9,8 @@
 
 <img align="left" src="https://profile-counter.glitch.me/wennerax/count.svg" />
 
-![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
+<br>
+![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)<br>
 
 ##  𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 ![code](https://i.imgur.com/44ujp5g.png)
