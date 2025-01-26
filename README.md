@@ -1,23 +1,6 @@
 ![:D](https://i.imgur.com/mqfMJfV.gif)
 
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    h1 {
-      background: linear-gradient(to right, red, blue);
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-    }
-  </style>
-</head>
-<body>
-  <h1>wennera</h1>
-</body>
-</html>
-
+<h1 class="linear-wipe">wennera</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=500&color=B926E4&center=true&width=441&height=58&lines=%EF%BD%97%EF%BD%85%EF%BD%8E%EF%BD%8E%EF%BD%85%EF%BD%92%EF%BD%81)](https://git.io/typing-svg)
 
