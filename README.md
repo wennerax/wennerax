@@ -39,10 +39,10 @@
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - .wennex.ex.
+![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - .𝐰𝐞𝐧𝐧𝐞𝐱.𝐞𝐱.
 
 
-![github](https://i.imgur.com/RRaeBZu.png) [profile github wennera](https://github.com/wennerax)
+![github](https://i.imgur.com/RRaeBZu.png) [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
 
 
 ## Thank you for visiting my profile!
