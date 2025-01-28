@@ -1,5 +1,3 @@
-<p align="center" style="background-color: black; color: white; padding: 60px; font-size: 44px;">
-  <strong>wennera</strong>
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
 
@@ -54,6 +52,3 @@
 
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
-
-
-</p>
