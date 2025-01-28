@@ -1,4 +1,4 @@
-<p align="center" style="background-color: black; color: white; padding: 40px; font-size: 24px;">
+<p align="center" style="background-color: black; color: white; padding: 60px; font-size: 44px;">
   <strong>wennera</strong>
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
