@@ -1,5 +1,5 @@
 <p align="center" style="background-color: black; color: white; padding: 20px;">
-  <strong>Ваш текст баннера здесь</strong>
+  <strong>wennera</strong>
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
 
