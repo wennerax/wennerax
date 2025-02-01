@@ -7,9 +7,29 @@
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
 𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫. 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
 
-<div id="discord" data-username=".wennera.ex." class="contact-button contact-button-dark contact-button-round w-inline-block"><div class="contact-button-text">Discord</div>
- <div class="contact-button-copy-overlay noselect">copied</div>
-<div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copy Button Example</title>
+</head>
+<body>
+    <textarea id="text-to-copy" style="display:none;">.wennera.ex.</textarea>
+    <button onclick="copyText()">copied</button>
+
+    <script>
+        function copyText() {
+            var textArea = document.getElementById("text-to-copy");
+            textArea.select();
+            document.execCommand("copy");
+            alert("Текст скопирован: " + textArea.value);
+        }
+    </script>
+</body>
+</html>
+
 
 ![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
 
