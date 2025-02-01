@@ -7,7 +7,10 @@
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
 𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫. 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
 
-<div id="discord" data-username=".wennera.ex." class="contact-button contact-button-dark contact-button-round w-inline-block"><div class="contact-button-text">Discord</div><div class="contact-button-copy-overlay noselect">copied</div></div><div class="contact-button-text">Discord</div><div class="contact-button-copy-overlay noselect">copied</div>
+<div id="discord" data-username=".wennera.ex." class="contact-button contact-button-dark contact-button-round w-inline-block"><div class="contact-button-text">Discord</div>
+ <div class="contact-button-copy-overlay noselect">copied</div>
+ <div class="contact-button-text">Discord</div><div class="contact-button-copy-overlay noselect">copied</div>
+<div>
 
 ![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
 
