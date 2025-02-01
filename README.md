@@ -42,9 +42,8 @@
 ![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - 
 <body>
     <button onclick="copyText()">copied</button>
-
+ 
     discord - .wennera.ex.
-
 </bodey>
 
 
