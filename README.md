@@ -39,10 +39,13 @@
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - <body>
+![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - 
+<body>
     <textarea id="text-to-copy" style="display:none;">.wennera.ex.</textarea>
     <button onclick="copyText()">copied</button>
-discord - .wennera.ex.
+
+    discord - .wennera.ex.
+
 </bodey>
 
 
