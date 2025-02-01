@@ -9,7 +9,6 @@
 
 <div id="discord" data-username=".wennera.ex." class="contact-button contact-button-dark contact-button-round w-inline-block"><div class="contact-button-text">Discord</div>
  <div class="contact-button-copy-overlay noselect">copied</div>
- <div class="contact-button-text">Discord</div><div class="contact-button-copy-overlay noselect">copied</div>
 <div>
 
 ![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
