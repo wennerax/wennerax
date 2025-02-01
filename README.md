@@ -7,30 +7,6 @@
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
 𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫. 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copy Button Example</title>
-</head>
-<body>
-    <textarea id="text-to-copy" style="display:none;">.wennera.ex.</textarea>
-    <button onclick="copyText()">copied</button>
-
-    <script>
-        function copyText() {
-            var textArea = document.getElementById("text-to-copy");
-            textArea.select();
-            document.execCommand("copy");
-            alert("Текст скопирован: " + textArea.value);
-        }
-    </script>
-</body>
-</html>
-
-
 ![Activity on GitHub](https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&theme=radical)
 
 ##  𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
@@ -63,7 +39,11 @@
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - .𝐰𝐞𝐧𝐧𝐞𝐱.𝐞𝐱.
+![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - <body>
+    <textarea id="text-to-copy" style="display:none;">.wennera.ex.</textarea>
+    <button onclick="copyText()">copied</button>
+discord - .wennera.ex.
+</bodey>
 
 
 ![github](https://i.imgur.com/RRaeBZu.png) [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
