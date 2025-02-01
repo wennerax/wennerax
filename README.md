@@ -39,7 +39,7 @@
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) - 
+![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) 
 <body>
     <button onclick="copyText()"></button>
  
@@ -47,7 +47,9 @@
 </bodey>
 
 
-![github](https://i.imgur.com/RRaeBZu.png) [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
+![github](https://i.imgur.com/RRaeBZu.png) 
+
+[𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
 
 
 ## Thank you for visiting my profile!
