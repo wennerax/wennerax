@@ -1,5 +1,5 @@
 
-![:D]([https://i.imgur.com/mqfMJfV.gif](https://i.pinimg.com/originals/ab/40/9d/ab409d0517a70f06fc2bf604006bf154.gif))
+![:D](https://i.imgur.com/mqfMJfV.gif)
 
 ![Typing SVG](https://i.imgur.com/tWqWARR.gif)
 
