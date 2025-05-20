@@ -16,26 +16,6 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-
-## 𝐌𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐩𝐥𝐮𝐠𝐢𝐧𝐬
-
-
-![Minecraft](https://i.imgur.com/e7sNwY4.png)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=6000&pause=2000&color=BBBBBB&multiline=true&random=true&width=441&height=58&lines=%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%A7'%F0%9D%90%AC)](https://git.io/typing-svg)
-
-
-
-## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=500&color=7E7E7E&width=441&height=58&lines=developer%3C%2F%3E;programmer+)](https://git.io/typing-svg)
-
-
-
-![Developer GIF](https://i.imgur.com/rBDFYL7.gif)
-
-
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
 
  
