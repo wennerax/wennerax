@@ -31,6 +31,10 @@
 
 [𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
 
+![bio](https://i.postimg.cc/Y9vxJvXz/157977633.png)
+
+[**bio**](https://guns.lol/wennera)
+
 
 ## Thank you for visiting my profile!
 
