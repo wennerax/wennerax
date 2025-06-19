@@ -1,7 +1,7 @@
 
 ![:D](https://i.imgur.com/mqfMJfV.gif)
 
-![Typing SVG](https://pin.it/7Ka56aOfL)
+![Typing SVG](https://ibb.co/5hzdbvts)
 
 
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
