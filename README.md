@@ -37,7 +37,7 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 
 <div align="center">
 	<a href="https://github.com/wennerax">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennerax&layout=donut&langs_count=8&hide_border=true&title_color=86efac&text_color=d1fae5&bg_color=071a12" alt="Top languages used in repositories" height="190" />
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wennerax&theme=github_dark" alt="Top languages used in repositories" height="190" />
 	</a>
 </div>
 
@@ -52,7 +52,7 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 
 <div align="center">
 	<a href="https://github.com/wennerax">
-		<img src="https://github-readme-stats.vercel.app/api?username=wennerax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=86efac&icon_color=22c55e&text_color=d1fae5&bg_color=071a12" alt="wennerax GitHub stats" height="170" />
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wennerax&theme=github_dark" alt="wennerax GitHub stats" height="170" />
 	</a>
 	<a href="https://github.com/wennerax">
 		<img src="https://streak-stats.demolab.com?user=wennerax&hide_border=true&background=071a12&ring=22c55e&fire=86efac&currStreakLabel=86efac&sideLabels=d1fae5&dates=86efac&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
