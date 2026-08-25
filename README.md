@@ -1,20 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:0f5132,100:22c55e&height=180&section=header&text=wennera&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="wennera banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:123d16,100:39ff14&height=180&section=header&text=wennera&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="wennera banner" width="100%" />
 
 <img src="https://i.imgur.com/mqfMJfV.gif" alt="Animated smile" width="115" />
 
 <br />
 
 <a href="https://github.com/wennerax">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+wennera;JavaScript+%7C+Python+developer;Building+ideas+into+code" alt="Animated introduction" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+wennera;JavaScript+%7C+Python+developer;Building+ideas+into+code" alt="Animated introduction" />
 </a>
 
 <p>
-	<a href="https://github.com/wennerax"><img src="https://img.shields.io/github/followers/wennerax?label=Followers&style=for-the-badge&color=22c55e&labelColor=071a12" alt="GitHub followers" /></a>
-	<a href="https://github.com/wennerax?tab=repositories"><img src="https://img.shields.io/github/stars/wennerax?label=Stars&style=for-the-badge&color=86efac&labelColor=071a12" alt="GitHub stars" /></a>
-	<img src="https://komarev.com/ghpvc/?username=wennerax&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="Profile views" />
+	<a href="https://github.com/wennerax"><img src="https://img.shields.io/github/followers/wennerax?label=Followers&style=for-the-badge&color=39ff14&labelColor=071a12" alt="GitHub followers" /></a>
+	<a href="https://github.com/wennerax?tab=repositories"><img src="https://img.shields.io/github/stars/wennerax?label=Stars&style=for-the-badge&color=b6ff00&labelColor=071a12" alt="GitHub stars" /></a>
+	<img src="https://komarev.com/ghpvc/?username=wennerax&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -44,8 +44,8 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 ## Connect
 
 <div align="center">
-	<a href="https://github.com/wennerax"><img src="https://img.shields.io/badge/GitHub-wennerax-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=071a12&color=166534" alt="GitHub wennerax" /></a>
-	<img src="https://img.shields.io/badge/Discord-.wennera.ex.-22c55e?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=071a12" alt="Discord .wennera.ex." />
+	<a href="https://github.com/wennerax"><img src="https://img.shields.io/badge/GitHub-wennerax-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=071a12&color=123d16" alt="GitHub wennerax" /></a>
+	<img src="https://img.shields.io/badge/Discord-.wennera.ex.-39ff14?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=071a12" alt="Discord .wennera.ex." />
 </div>
 
 ## GitHub activity
@@ -55,7 +55,7 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wennerax&theme=github_dark" alt="wennerax GitHub stats" height="170" />
 	</a>
 	<a href="https://github.com/wennerax">
-		<img src="https://streak-stats.demolab.com?user=wennerax&hide_border=true&background=071a12&ring=22c55e&fire=86efac&currStreakLabel=86efac&sideLabels=d1fae5&dates=86efac&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
+		<img src="https://streak-stats.demolab.com?user=wennerax&hide_border=true&background=071a12&ring=39ff14&fire=b6ff00&currStreakLabel=b6ff00&sideLabels=d9ffb8&dates=39ff14&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
 	</a>
 </div>
 
@@ -65,5 +65,5 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 </div>
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f5132,100:071a12&height=110&section=footer&animation=twinkling" alt="Green footer" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:123d16,100:071a12&height=110&section=footer&animation=twinkling" alt="Neon green footer" width="100%" />
 </div>
