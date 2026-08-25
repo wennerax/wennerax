@@ -1,44 +1,69 @@
 
-![:D](https://i.imgur.com/mqfMJfV.gif)
+<div align="center">
 
-![Typing SVG](https://i.postimg.cc/Kz8xZJ7q/2f877ce80d227481441474816bfa68d1.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:0f5132,100:22c55e&height=180&section=header&text=wennera&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="wennera banner" width="100%" />
 
+<img src="https://i.imgur.com/mqfMJfV.gif" alt="Animated smile" width="115" />
 
-# 𝐖𝐞𝐥𝐜𝐨𝐦𝐞, 𝐢'𝐦 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 👋
-𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐧𝐧𝐞𝐫𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫. 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
+<br />
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=wennerax&layout=donut)
+<a href="https://github.com/wennera">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+wennera;JavaScript+%7C+Python+developer;Building+ideas+into+code" alt="Animated introduction" />
+</a>
 
-##  𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-![code](https://i.imgur.com/44ujp5g.png)
+<p>
+	<a href="https://github.com/wennera"><img src="https://img.shields.io/github/followers/wennera?label=Followers&style=for-the-badge&color=22c55e&labelColor=071a12" alt="GitHub followers" /></a>
+	<a href="https://github.com/wennera?tab=repositories"><img src="https://img.shields.io/github/stars/wennera?label=Stars&style=for-the-badge&color=86efac&labelColor=071a12" alt="GitHub stars" /></a>
+	<img src="https://komarev.com/ghpvc/?username=wennera&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
+</div>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## About me
 
-## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧
+I'm a developer who enjoys turning ideas into useful, clean, and occasionally mischievous software. I work with **JavaScript** and **Python**, learn by building, and like exploring the space where creativity meets automation.
 
- 
-![𝐝𝐢𝐬𝐜𝐨𝐫𝐝](https://i.imgur.com/JrLGYnS.png) 
-<body>
-    <button onclick="copyText()"></button>
- 
-    discord - .wennera.ex.
-</bodey>
+<div align="center">
+	<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
+</div>
 
+## Programming languages
 
-![github](https://i.imgur.com/RRaeBZu.png) 
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=js,python&theme=dark" alt="JavaScript and Python" />
+</div>
 
-[𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐰𝐞𝐧𝐧𝐞𝐫𝐚](https://github.com/wennerax)
+## Top languages in my repositories
 
-![bio](https://i.postimg.cc/Y9vxJvXz/157977633.png)
+<div align="center">
+	<a href="https://github.com/wennera">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennera&layout=donut&langs_count=8&hide_border=true&title_color=86efac&text_color=d1fae5&bg_color=071a12" alt="Top languages used in repositories" height="190" />
+	</a>
+</div>
 
-[**bio**](https://guns.lol/wennera)
+## Connect
 
+<div align="center">
+	<a href="https://github.com/wennera"><img src="https://img.shields.io/badge/GitHub-wennera-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=071a12&color=166534" alt="GitHub wennera" /></a>
+	<img src="https://img.shields.io/badge/Discord-.wennera.ex.-22c55e?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=071a12" alt="Discord .wennera.ex." />
+</div>
 
-## Thank you for visiting my profile!
+## GitHub activity
 
-![smike](https://i.imgur.com/1VXLhqB.gif)
+<div align="center">
+	<a href="https://github.com/wennera">
+		<img src="https://github-readme-stats.vercel.app/api?username=wennera&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=86efac&icon_color=22c55e&text_color=d1fae5&bg_color=071a12" alt="wennera GitHub stats" height="170" />
+	</a>
+	<a href="https://github.com/wennera">
+		<img src="https://streak-stats.demolab.com?user=wennera&hide_border=true&background=071a12&ring=22c55e&fire=86efac&currStreakLabel=86efac&sideLabels=d1fae5&dates=86efac&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
+	</a>
+</div>
 
+<div align="center">
+	<p>Thanks for visiting my profile!</p>
+	<img src="https://i.imgur.com/1VXLhqB.gif" alt="Animated farewell" width="180" />
+</div>
 
-![:D](https://i.imgur.com/mqfMJfV.gif)
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f5132,100:071a12&height=110&section=footer&animation=twinkling" alt="Green footer" width="100%" />
+</div>
