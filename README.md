@@ -55,7 +55,7 @@ I'm a developer who enjoys turning ideas into useful, clean, and occasionally mi
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wennerax&theme=github_dark" alt="wennerax GitHub stats" height="170" />
 	</a>
 	<a href="https://github.com/wennerax">
-		<img src="https://streak-stats.demolab.com?user=wennerax&hide_border=true&background=071a12&ring=39ff14&fire=b6ff00&currStreakLabel=b6ff00&sideLabels=d9ffb8&dates=39ff14&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
+		<img src="https://streak-stats.demolab.com/?user=wennerax&hide_border=true&background=071a12&ring=39ff14&fire=b6ff00&currStreakLabel=b6ff00&sideLabels=d9ffb8&dates=39ff14&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" height="170" />
 	</a>
 </div>
 
