@@ -58,5 +58,5 @@ I build useful things with **JavaScript** and **Python**, exploring the space be
 </div>
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:39216b,100:10091f&height=85&section=footer&animation=twinkling" alt="Purple footer" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:39216b,100:10091f&height=70&section=footer&animation=twinkling" alt="Purple animated footer" width="100%" />
 </div>
