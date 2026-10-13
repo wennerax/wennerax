@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10091f,50:39216b,100:a78bfa&height=150&section=header&text=wennera&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="wennera banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:10091f,50:39216b,100:a78bfa&height=150&section=header&text=wennera&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="wennera animated banner" width="100%" />
 
 <br />
 
