@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<a href="https://github.com/wennerax">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2200&pause=700&color=C4B5FD&center=true&vCenter=true&width=800&height=110&lines=Hello%2C+I'm+wennera;JavaScript+%7C+Python+developer;Building+ideas+into+code" alt="Animated introduction" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:10091f,50:39216b,100:a78bfa&height=170&section=header&text=wennera&fontSize=64&fontColor=ffffff&animation=scaleIn&fontAlignY=38" alt="Animated wennera banner" width="100%" />
 
 <p>
 	<a href="https://github.com/wennerax"><img src="https://img.shields.io/github/followers/wennerax?label=Followers&style=flat&color=c4b5fd&labelColor=171322" alt="GitHub followers" /></a>
