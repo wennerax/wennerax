@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&color=0:10091f,50:39216b,100:a78bfa&height=170&section=header" alt="Animated purple Wennera banner" width="100%" />
-
-<h1 align="center">wennera</h1>
+<img src="wennera-banner.svg" alt="Animated Wennera banner with typing text" width="100%" />
 
 <p>
 	<a href="https://github.com/wennerax"><img src="https://img.shields.io/github/followers/wennerax?label=Followers&style=flat&color=c4b5fd&labelColor=171322" alt="GitHub followers" /></a>
