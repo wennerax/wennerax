@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">Wennera animated profile banner</title>
+  <desc id="description">A softly animated purple background with the name wennera typing across the center.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10091f" />
+      <stop offset="0.52" stop-color="#39216b" />
+      <stop offset="1" stop-color="#10091f" />
+    </linearGradient>
+    <linearGradient id="sweep" x1="-500" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#c4b5fd" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0" />
+      <animate attributeName="x1" values="-1200;1200" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="-600;1800" dur="10s" repeatCount="indefinite" />
+    </linearGradient>
+    <clipPath id="typing-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="420" y="35" width="0" height="150">
+        <animate attributeName="width" values="0;50;100;150;200;250;300;350;350" keyTimes="0;0.08;0.16;0.24;0.32;0.4;0.48;0.56;1" calcMode="discrete" dur="5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="220" fill="url(#base)" />
+  <ellipse cx="-80" cy="35" rx="330" ry="150" fill="#8b5cf6" opacity="0.13">
+    <animate attributeName="cx" values="-80;1280;-80" dur="18s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="1180" cy="205" rx="300" ry="125" fill="#c4b5fd" opacity="0.11">
+    <animate attributeName="cx" values="1180;-180;1180" dur="22s" repeatCount="indefinite" />
+  </ellipse>
+  <rect width="1200" height="220" fill="url(#sweep)" />
+  <text x="600" y="133" text-anchor="middle" clip-path="url(#typing-clip)" fill="#ffffff" font-family="monospace" font-size="78" font-weight="700" letter-spacing="2">wennera</text>
+  <text x="420" y="133" fill="#ffffff" font-family="monospace" font-size="78" font-weight="400">|">
+    <animate attributeName="x" values="420;470;520;570;620;670;720;770;770" keyTimes="0;0.08;0.16;0.24;0.32;0.4;0.48;0.56;1" calcMode="discrete" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+  </text>
+</svg>
