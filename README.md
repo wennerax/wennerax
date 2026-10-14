@@ -61,3 +61,11 @@ I build useful things with **JavaScript** and **Python**, exploring the space be
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,50:39216b,100:10091f&height=70&section=footer&animation=twinkling" alt="Purple animated footer" width="100%" />
 </div>
+
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wennerax/wennerax/output/github-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wennerax/wennerax/output/github-snake.svg" />
+		<img alt="Animated snake traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/wennerax/wennerax/output/github-snake.svg" />
+	</picture>
+</div>
