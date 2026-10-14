@@ -34,6 +34,11 @@ I build useful things with **JavaScript** and **Python**, exploring the space be
 <div align="center">
 	<a href="https://github.com/wennerax"><img src="https://img.shields.io/badge/GitHub-wennerax-ffffff?style=flat&logo=github&logoColor=ffffff&labelColor=171322&color=8b5cf6" alt="GitHub wennerax" /></a>
 	<img src="https://img.shields.io/badge/Discord-.wennera.ex.-c4b5fd?style=flat&logo=discord&logoColor=ffffff&labelColor=171322" alt="Discord .wennera.ex." />
+
+```text
+.wennera.ex.
+```
+
 </div>
 
 ## GitHub activity
